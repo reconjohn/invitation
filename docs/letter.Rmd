@@ -1,0 +1,61 @@
+---
+title: "민요한 & 팡디 결혼 초대장"
+author: "Yohan Min"
+
+date: "Updated `r Sys.Date()`"
+
+output:
+  bookdown::gitbook:
+    config:
+      toc:
+        collapse: no
+        scroll_highlight: yes
+        before: null
+        after: null
+      toolbar:
+        position: fixed
+      edit : null
+      download: yes
+      search: yes
+      fontsettings:
+        theme: white
+        family: sans
+        size: 2
+    sharing:
+      facebook: yes
+      twitter: yes
+      google: no
+      linkedin: no
+    all: ['facebook', 'google', 'twitter', 'linkedin']
+
+---
+
+<!-- Packages -->
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F,warning=FALSE, message=FALSE)
+```
+
+# 초대합니다. {#index}
+
+한 가정의 가장이 되기에는 많이 부족하고 부끄럽지만 하나님이 이루신 가정임을 신뢰하며 새로운 가정을 이루고자 합니다. 바쁘시지만 시간이 되시면 오셔서 축복해 주세요. 
+
+> *We would like to invite you to the wedding as we are going to start a new family in God with faith that God has joined us together. I still feel I am not enough to lead the house but have a faith that God will lead the house not me. We are looking forward to your gracious presence.* 
+
+![](main.PNG){width=1000}
+
+# 일시와 장소
+
+![](time.PNG){width=250} ![](entrance.PNG){height=334} 
+
+
+```{r echo = F,warning=FALSE, message=FALSE}
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=126.78045, lat=37.64956, popup="The Wedding place") %>% 
+  addMiniMap()
+
+```
+
+
