@@ -45,6 +45,24 @@ knitr::opts_chunk$set(echo = F,warning=FALSE, message=FALSE)
 
 ![](main.PNG){width=900}
 
+# 사진보기 (Pictures)
+
+![](920.jpg){width=200} ![](0211.jpg){width=200}![](918.jpg){width=200}
+
+![](0213.jpg){width=300} ![](0228.jpg){width=300}
+
+![](924.jpg){width=300} ![](1119.jpg){width=300} 
+
+![](0212.jpg){width=200} ![](917.jpg){width=200}![](0216.jpg){width=200}
+
+![](1122.jpg){width=300} ![](1205.jpg){width=300} 
+
+![](0215.jpg){width=300} ![](306.jpg){width=300} 
+
+
+![](311.jpg){width=200} ![](0214.jpg){width=200} ![](0204.jpg){width=200} 
+
+
 # 장소 (Location)
 
 
