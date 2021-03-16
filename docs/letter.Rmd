@@ -69,7 +69,7 @@ knitr::opts_chunk$set(echo = F,warning=FALSE, message=FALSE)
 ![](0215.jpg){width=300} ![](306.jpg){width=300} 
 
 
- ![](vow.png){width=605}
+ ![](vow.png){width=600}
 
 
 
