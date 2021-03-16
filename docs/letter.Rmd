@@ -75,7 +75,9 @@ knitr::opts_chunk$set(echo = F,warning=FALSE, message=FALSE)
 
 # 장소 (Location)
 
+**오시는 길**
 
+대중교통으로 오시는 경우, 마두역 8번 출구에서 백석역 방향으로 내려오시면 이마트 사거리, 이마트 맞은 편에 위치해 있습니다. 자차로 오시는 경우, 아래 주소를 참고해서 오세요. 
  
  <div align="center">
 
