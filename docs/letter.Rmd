@@ -47,7 +47,11 @@ knitr::opts_chunk$set(echo = F,warning=FALSE, message=FALSE)
 
 # 사진보기 (Pictures)
 
-![](920.jpg){width=300} ![](0204.jpg){width=300}
+![](di.jpg){width=603} 
+
+![](lotte.png){width=603} 
+
+![](920.jpg){width=257} ![](0204.jpg){width=343}
 
 ![](311.jpg){width=300} ![](0214.jpg){width=300} 
 
@@ -55,22 +59,33 @@ knitr::opts_chunk$set(echo = F,warning=FALSE, message=FALSE)
 
 ![](0211.jpg){width=300} ![](918.jpg){width=300}
 
+
+![](amuze.jpg){width=300} ![](bollun.jpg){width=300}
+
 ![](0213.jpg){width=300} ![](0228.jpg){width=300}
 
 ![](924.jpg){width=300} ![](1119.jpg){width=300} 
 
-![](917.jpg){width=300} ![](0212.jpg){width=300}  
+![](917.jpg){width=300} ![](0212.jpg){width=300} 
 
+![](1122.jpg){width=300} ![](1205.jpg){width=300}
 
-
-
-![](1122.jpg){width=300} ![](1205.jpg){width=300} 
+![](kiss.jpg){width=283} ![](korean.jpg){width=317} 
 
 ![](0215.jpg){width=300} ![](306.jpg){width=300} 
 
+![](wheel.jpg){width=298} ![](bro.jpg){width=302}
 
- ![](vow.png){width=600}
+![](vow.png){width=603}
 
+# 이야기 (Story)
+
+세상을 동경했습니다. 세계 45개국을 다니며 산으로, 바다로, 북극으로, 사막으로, 그리고 우상들..세상을 메칠 수 있다고 생각했지만 결혼을 통해 저의 한계와 절망을 깨닫습니다. 오직 하나님께 갇힌자가 되어 메치기를 잘 당하겠습니다. 많이 찌그러지고 있지만 제가 아닌 하나님께서 하심을 신뢰하며 계속해서 함께 나가겠습니다. 
+
+>이것을 너희에게 이름은 너희로 내 안에서 평안을 누리게 하려함이라 세상에서는 너희가 환난을 당하나 담대하라 내가 세상을 이기었노라 하시니라 - 요한복음 16:33 (I have tod you all this so that you may have peace in me. Here on earth you will have many trials and sorrows. But take heart, because I have overcomethe world - John 16:33)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2-OqPaVijwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # 장소 (Location)
