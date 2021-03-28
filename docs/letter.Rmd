@@ -47,36 +47,36 @@ knitr::opts_chunk$set(echo = F,warning=FALSE, message=FALSE)
 
 # 사진보기 (Pictures)
 
-![](di.jpg){width=603} 
+![](di.jpg){width=743} 
 
-![](lotte.png){width=603} 
+![](lotte.png){width=743} 
 
-![](920.jpg){width=257} ![](0204.jpg){width=343}
+![](920.jpg){width=317} ![](0204.jpg){width=423}
 
-![](311.jpg){width=300} ![](0214.jpg){width=300} 
+![](311.jpg){width=370} ![](0214.jpg){width=370} 
 
-![](love.jpg){width=300} ![](0216.jpg){width=300} 
+![](love.jpg){width=370} ![](0216.jpg){width=370} 
 
-![](0211.jpg){width=300} ![](918.jpg){width=300}
+![](0211.jpg){width=370} ![](918.jpg){width=370}
 
 
-![](amuze.jpg){width=300} ![](bollun.jpg){width=300}
+![](amuze.jpg){width=370} ![](bollun.jpg){width=370}
 
-![](0213.jpg){width=300} ![](0228.jpg){width=300}
+![](0213.jpg){width=370} ![](0228.jpg){width=370}
 
-![](924.jpg){width=300} ![](1119.jpg){width=300} 
+![](924.jpg){width=370} ![](1119.jpg){width=370} 
 
-![](917.jpg){width=300} ![](0212.jpg){width=300} 
+![](917.jpg){width=370} ![](0212.jpg){width=370} 
 
-![](1122.jpg){width=300} ![](1205.jpg){width=300}
+![](1122.jpg){width=370} ![](1205.jpg){width=370}
 
-![](kiss.jpg){width=283} ![](korean.jpg){width=317} 
+![](kiss.jpg){width=350} ![](korean.jpg){width=390} 
 
-![](0215.jpg){width=300} ![](306.jpg){width=300} 
+![](0215.jpg){width=370} ![](306.jpg){width=370} 
 
-![](wheel.jpg){width=298} ![](bro.jpg){width=302}
+![](wheel.jpg){width=368} ![](bro.jpg){width=373}
 
-![](vow.png){width=603}
+![](vow.png){width=744}
 
 # 이야기 (Story)
 
@@ -85,7 +85,7 @@ knitr::opts_chunk$set(echo = F,warning=FALSE, message=FALSE)
 >이것을 너희에게 이름은 너희로 내 안에서 평안을 누리게 하려함이라 세상에서는 너희가 환난을 당하나 담대하라 내가 세상을 이기었노라 하시니라 - 요한복음 16:33 (I have tod you all this so that you may have peace in me. Here on earth you will have many trials and sorrows. But take heart, because I have overcomethe world - John 16:33)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2-OqPaVijwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="315" src="https://www.youtube.com/embed/2-OqPaVijwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # 장소 (Location)
